@@ -32,7 +32,6 @@ public class RetryAnalyzerPractiseTests {
 		Assert.assertEquals(heading, "Guru99 Bank");
 		driver.close();
 	}
-	
-	
 
 }
+//TestNG
