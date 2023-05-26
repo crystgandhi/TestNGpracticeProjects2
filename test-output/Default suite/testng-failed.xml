@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="practiceProjects_test.RetryAnalyzerPractiseTests">
+      <class name="staleElementException.FreeCrmIRetryAnalyzerExample">
         <methods>
-          <include name="TC_002_inValidCredntials"/>
+          <include name="freecrmStaleElement"/>
         </methods>
-      </class> <!-- practiceProjects_test.RetryAnalyzerPractiseTests -->
+      </class> <!-- staleElementException.FreeCrmIRetryAnalyzerExample -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
